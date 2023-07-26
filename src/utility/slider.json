@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Hollar Villa",
+      "price": "67,043",
+      "detail": "Hollar villa, Banana Ireland, Houston",
+      "image": "./house2lg.png"
+    },
+    {
+      "name": "Luke Lakeside House",
+      "price": "45,353",
+      "detail": "Luke lakeside Way, Block 35, Texas",
+      "image": "./house10lg.png"
+    },
+    {
+      "name": "Savanna Estate",
+      "price": "35,853",
+      "detail": "120 Loop Ave Jonesville, North Carolina(NC), 28642",
+      "image": "./house9lg.png"
+    },
+    {
+      "name": "Golden Garden City",
+      "price": "47,043",
+      "detail": "341 Edwards St Rutherfordton, North Carolina(NC), 28139",
+      "image": "./house11lg.png"
+    },
+    {
+      "name": "Dallas House",
+      "price": "66,353",
+      "detail": "1719 Edwin Dr Bel Air, Maryland(MD), 21015",
+      "image": "./house6lg.png"
+    },
+    {
+      "name": "Banana Estate",
+      "price": "65,853",
+      "detail": "103 Gordon Ave Gordon, Georgia(GA), 31031",
+      "image": "./house4lg.png"
+    }
+  ]
